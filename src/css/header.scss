@@ -1,0 +1,20 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  height: 36px;
+  border-bottom: 2px solid black;
+  padding: 0 8px;
+
+  background-color: #6abce2;
+
+  button {
+    width: 52px;
+    height: 24px;
+  }
+
+  #clock {
+    font-size: 14px;
+  }
+}

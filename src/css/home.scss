@@ -1,0 +1,15 @@
+#home {
+  display: flex;
+  justify-content: space-around;
+
+  padding-top: 16px;
+
+  button {
+    width: 56px;
+    height: 56px;
+
+    border: none;
+
+    user-select: none;
+  }
+}
